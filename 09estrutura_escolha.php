@@ -15,6 +15,9 @@
             echo "Linguagem de Desenvolvimento Web";
         break;
 
+        case "Java":
+            echo "Linguagem de Desenvolvimento Web and Desktop"
+        
         default:
         echo "Curso não cadastrado";
     }
