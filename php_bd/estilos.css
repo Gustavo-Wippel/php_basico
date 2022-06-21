@@ -1,0 +1,10 @@
+form, table, #btnCadastrar {
+    width: 600px !important;
+    margin: 20px auto;
+    
+}
+
+input, select {
+    margin-bottom: 10px;
+}
+
